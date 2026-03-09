@@ -1,7 +1,16 @@
 export const COLORS = {
-    primary: '#3b82f6',    // blue-500
-    success: '#22c55e',    // green-500
-    warning: '#f59e0b',    // amber-500
-    danger: '#ef4444',     // red-500
-    muted: '#94a3b8',      // slate-400
-  }
+  primary: '#10b981',    // emerald-500
+  primaryLight: '#34d399', // emerald-400
+  primaryDark: '#059669',  // emerald-600
+  success: '#22c55e',
+  warning: '#f59e0b',
+  danger: '#ef4444',
+  muted: '#6b7280',
+}
+
+export const SITE = {
+  name: 'MyBusiness',
+  tagline: 'Scale Your Business Globally',
+  description: 'The all-in-one SaaS platform to manage, grow, and automate your business worldwide.',
+  url: 'https://my-business-landing.vercel.app',
+}
